@@ -1,0 +1,79 @@
+﻿@model BlogContent
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blog Details</title>
+    <style>
+        body {
+            margin-top: 100px;
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+        }
+
+        .container {
+            width: 60%;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .details {
+            margin-bottom: 20px;
+        }
+
+            .details label {
+                font-weight: bold;
+                display: block;
+                margin-bottom: 5px;
+            }
+
+            .details p {
+                margin-bottom: 15px;
+            }
+
+        .back-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+        }
+
+            .back-link a {
+                color: #3498db;
+                text-decoration: none;
+                font-weight: bold;
+            }
+
+                .back-link a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Blog Details</h1>
+        <div class="details">
+            <label>Section Heading:</label>
+            <p>@Model.SectionHeading</p>
+        </div>
+        <div class="details">
+            <label>Section Description:</label>
+            <p>@Model.SectionDescription</p>
+        </div>
+        <div class="details">
+            <label>Post Date:</label>
+            <p>@Model.PostDate.ToString()</p>
+        </div>
+        <div class="back-link">
+            <a href="@Url.Action("Index", "Blog")">Back to Blog Index</a>
+        </div>
+    </div>
+</body>
+</html>

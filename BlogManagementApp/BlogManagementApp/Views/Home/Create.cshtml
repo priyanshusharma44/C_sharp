@@ -1,0 +1,149 @@
+﻿@model UserListEdit
+
+@{
+    if (User.Identity.IsAuthenticated)
+    {
+        Layout = "_Layout";
+    }
+    else
+    {
+        Layout = "_StaticLayout";
+    }
+}
+
+<style>
+    .top {
+        margin-top: 100px;
+    }
+
+    .form-container {
+        max-width: 480px;
+        margin: 70px auto;
+        padding: 20px;
+        background-color: #ffffff;
+        border: 1px solid #e2e8f0;
+        border-radius: 8px;
+        box-shadow: 0 4px 10px rgba(74, 144, 226, 0.2); /* Sky blue shadow */
+    }
+
+    .form-header {
+        background-color: #4a90e2;
+        color: #ffffff;
+        text-align: center;
+        padding: 10px;
+        border-radius: 8px 8px 0 0;
+    }
+
+    .form-container input[type="text"],
+    .form-container input[type="email"],
+    .form-container input[type="password"],
+    .form-container input[type="file"] {
+        padding: 12px;
+        border: 1px solid #d2d6dc;
+        border-radius: 4px;
+        margin-bottom: 10px;
+        width: 100%;
+        font-size: 14px;
+        outline: none;
+        transition: border-color 0.3s ease;
+    }
+
+        .form-container input[type="text"]:focus,
+        .form-container input[type="email"]:focus,
+        .form-container input[type="password"]:focus,
+        .form-container input[type="file"]:focus {
+            border-color: #4a90e2;
+        }
+
+    .form-container label {
+        position: absolute;
+        top: 10px;
+        left: 12px;
+        color: #7b8794;
+        transition: transform 0.3s ease, opacity 0.3s ease;
+        pointer-events: none;
+        font-size: 14px;
+    }
+
+    .form-container input:focus ~ label,
+    .form-container input:not(:placeholder-shown) ~ label {
+        transform: translateY(-20px) scale(0.75);
+        opacity: 0.8;
+        color: #4a90e2;
+    }
+
+    .form-container .btn {
+        background-color: #4a90e2;
+        color: #ffffff;
+        border: none;
+        padding: 12px 20px;
+        font-size: 14px;
+        cursor: pointer;
+        border-radius: 4px;
+        outline: none;
+        transition: background-color 0.3s ease;
+        width: 100%;
+    }
+
+        .form-container .btn:hover {
+            background-color: #357bd8;
+        }
+</style>
+
+<div class="top">
+    <div class="form-container">
+        <div class="form-header">
+            <h2 class="text-xl font-bold">User Registration</h2>
+        </div>
+        <form asp-action="Create" asp-controller="Home" class="mt-5" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly"></div>
+
+            <div class="mb-5 group relative z-0 w-full">
+                <input asp-for="FullName" type="text" class="py-2.5 px-0 text-gray-900 bg-transparent border-gray-300 peer block w-full appearance-none border-0 border-b-2 text-sm focus:outline-none focus:ring-0 focus:border-blue-600" placeholder=" " required />
+                <label asp-for="FullName" class="text-gray-500 -translate-y-6 top-3 origin-[0] absolute -z-10 scale-75 transform text-sm duration-300 peer-focus:font-medium peer-focus:text-blue-600 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Full Name</label>
+                <span asp-validation-for="FullName" class="text-red-400"></span>
+            </div>
+
+            <div class="mb-5 group relative z-0 w-full">
+                <input asp-for="EmailAddress" type="email" class="py-2.5 px-0 text-gray-900 bg-transparent border-gray-300 peer block w-full appearance-none border-0 border-b-2 text-sm focus:outline-none focus:ring-0 focus:border-blue-600" placeholder=" " required />
+                <label asp-for="EmailAddress" class="text-gray-500 -translate-y-6 top-3 origin-[0] absolute -z-10 scale-75 transform text-sm duration-300 peer-focus:font-medium peer-focus:text-blue-600 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Email Address</label>
+                <span asp-validation-for="EmailAddress" class="text-red-400"></span>
+            </div>
+
+            <div class="mb-5 group relative z-0 w-full">
+                <input asp-for="CurrentAddress" class="py-2.5 px-0 text-gray-900 bg-transparent border-gray-300 peer block w-full appearance-none border-0 border-b-2 text-sm focus:outline-none focus:ring-0 focus:border-blue-600" placeholder=" " required />
+                <label asp-for="CurrentAddress" class="text-gray-500 -translate-y-6 top-3 origin-[0] absolute -z-10 scale-75 transform text-sm duration-300 peer-focus:font-medium peer-focus:text-blue-600 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Address</label>
+                <span asp-validation-for="CurrentAddress" class="text-red-400"></span>
+            </div>
+
+            <div class="grid md:grid-cols-2 md:gap-6">
+                <div class="mb-5 group relative z-0 w-full">
+                    <input asp-for="UserRole" class="py-2.5 px-0 text-gray-900 bg-transparent border-gray-300 peer block w-full appearance-none border-0 border-b-2 text-sm focus:outline-none focus:ring-0 focus:border-blue-600" placeholder=" " required />
+                    <label asp-for="UserRole" class="text-gray-500 -translate-y-6 top-3 origin-[0] absolute -z-10 scale-75 transform text-sm duration-300 peer-focus:font-medium peer-focus:text-blue-600 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">User Role</label>
+                    <span asp-validation-for="UserRole" class="text-red-400"></span>
+                </div>
+                <div class="mb-5 group relative z-0 w-full">
+                    <input asp-for="UserPassword" type="password" class="py-2.5 px-0 text-gray-900 bg-transparent border-gray-300 peer block w-full appearance-none border-0 border-b-2 text-sm focus:outline-none focus:ring-0 focus:border-blue-600" placeholder=" " required />
+                    <label asp-for="UserPassword" class="text-gray-500 -translate-y-6 top-3 origin-[0] absolute -z-10 scale-75 transform text-sm duration-300 peer-focus:font-medium peer-focus:text-blue-600 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Password</label>
+                    <span asp-validation-for="UserPassword" class="text-red-400"></span>
+                </div>
+
+           
+
+            </div>
+
+            <div class="mb-5 group relative z-0 w-full">
+                <input asp-for="UserFile" type="file" class="py-2.5 px-0 text-gray-900 bg-transparent border-gray-300 peer block w-full appearance-none border-0 border-b-2 text-sm focus:outline-none focus:ring-0 focus:border-blue-600" placeholder=" " required />
+                <label asp-for="UserFile" class="text-gray-500 -translate-y-6 top-3 origin-[0] absolute -z-10 scale-75 transform text-sm duration-300 peer-focus:font-medium peer-focus:text-blue-600 peer-placeholder-shown:scale-100 peer-placeholder-shown:translate-y-0 peer-focus:scale-75 peer-focus:-translate-y-6">Upload Photo</label>
+                <span asp-validation-for="UserPhoto" class="text-red-400"></span>
+            </div>
+
+            <input type="submit" class="btn bg-blue-700 px-5 py-2.5 text-white w-full rounded-lg text-center text-sm font-medium hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300" value="Submit" />
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-ajax-unobtrusive/3.2.6/jquery.unobtrusive-ajax.min.js" integrity="sha512-DedNBWPF0hLGUPNbCYfj8qjlEnNE92Fqn7xd3Sscfu7ipy7Zu33unHdugqRD3c4Vj7/yLv+slqZhMls/4Oc7Zg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+}

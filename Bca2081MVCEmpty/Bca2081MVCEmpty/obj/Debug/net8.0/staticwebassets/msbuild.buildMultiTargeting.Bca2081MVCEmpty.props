@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Bca2081MVCEmpty.props" />
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\serjo\source\repos\PropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.exe.config
+C:\Users\serjo\source\repos\PropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.exe
+C:\Users\serjo\source\repos\PropertiesExample\PropertiesExample\bin\Debug\PropertiesExample.pdb
+C:\Users\serjo\source\repos\PropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.csproj.AssemblyReference.cache
+C:\Users\serjo\source\repos\PropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.csproj.CoreCompileInputs.cache
+C:\Users\serjo\source\repos\PropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.exe
+C:\Users\serjo\source\repos\PropertiesExample\PropertiesExample\obj\Debug\PropertiesExample.pdb

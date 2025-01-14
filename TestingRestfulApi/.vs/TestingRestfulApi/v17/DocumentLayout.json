@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}|TestingRestfulApi\\TestingRestfulApi.csproj|c:\\users\\serjo\\source\\repos\\testingrestfulapi\\testingrestfulapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}|TestingRestfulApi\\TestingRestfulApi.csproj|solutionrelative:testingrestfulapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}|TestingRestfulApi\\TestingRestfulApi.csproj|c:\\users\\serjo\\source\\repos\\testingrestfulapi\\testingrestfulapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}|TestingRestfulApi\\TestingRestfulApi.csproj|solutionrelative:testingrestfulapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\Models\\StudentDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TestingRestfulApi\\Models\\StudentDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}|TestingRestfulApi\\TestingRestfulApi.csproj|c:\\users\\serjo\\source\\repos\\testingrestfulapi\\testingrestfulapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}|TestingRestfulApi\\TestingRestfulApi.csproj|solutionrelative:testingrestfulapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "TestingRestfulApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "TestingRestfulApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:35:10.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "TestingRestfulApi\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "TestingRestfulApi\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:26:22.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TestingRestfulApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\appsettings.json",
+              "RelativeToolTip": "TestingRestfulApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-23T01:10:36.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestingRestfulApi\\Program.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\Program.cs",
+              "RelativeToolTip": "TestingRestfulApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:06:08.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

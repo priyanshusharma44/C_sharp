@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "RY440W0aSLX5g3oqvx9JSVphjVEWTQC7SRVv2jm73Ho=",
+  "Source": "EFCORECRUDASP",
+  "BasePath": "_content/EFCORECRUDASP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EFCORECRUDASP\\wwwroot",
+      "Source": "EFCORECRUDASP",
+      "ContentRoot": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\wwwroot\\",
+      "BasePath": "_content/EFCORECRUDASP",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\wwwroot\\twitter-bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "EFCORECRUDASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\wwwroot\\",
+      "BasePath": "_content/EFCORECRUDASP",
+      "RelativePath": "twitter-bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\twitter-bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "EFCORECRUDASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\wwwroot\\",
+      "BasePath": "_content/EFCORECRUDASP",
+      "RelativePath": "twitter-bootstrap/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\twitter-bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\wwwroot\\twitter-bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "EFCORECRUDASP",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\wwwroot\\",
+      "BasePath": "_content/EFCORECRUDASP",
+      "RelativePath": "twitter-bootstrap/js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\twitter-bootstrap\\js\\bootstrap.min.js"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingRestfulApi", "TestingRestfulApi\TestingRestfulApi.csproj", "{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFD70BE-54E4-48D3-9BDB-7DDE9AF7D36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFBAFDD2-5023-486A-AFEC-D44E411D0A4D}
+	EndGlobalSection
+EndGlobal

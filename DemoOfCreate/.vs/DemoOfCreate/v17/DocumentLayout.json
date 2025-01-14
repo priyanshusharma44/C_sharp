@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\DemoOfCreate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A61D46BC-D7A6-43A0-977E-9C1C892461CF}|DemoOfCreate\\DemoOfCreate.csproj|c:\\users\\serjo\\source\\repos\\demoofcreate\\demoofcreate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61D46BC-D7A6-43A0-977E-9C1C892461CF}|DemoOfCreate\\DemoOfCreate.csproj|solutionrelative:demoofcreate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\DemoOfCreate\\DemoOfCreate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoOfCreate\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\DemoOfCreate\\DemoOfCreate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoOfCreate\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:42:02.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

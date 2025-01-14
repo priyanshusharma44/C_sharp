@@ -1,0 +1,11 @@
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.csproj.AssemblyReference.cache
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.btnRegister.resources
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.NewStudentForm.resources
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.Properties.Resources.resources
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.csproj.GenerateResource.cache
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.csproj.CoreCompileInputs.cache
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\bin\Debug\DesktopAppWithCrud.exe.config
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\bin\Debug\DesktopAppWithCrud.exe
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\bin\Debug\DesktopAppWithCrud.pdb
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.exe
+C:\Users\serjo\source\repos\DesktopAppWithCrud\DesktopAppWithCrud\obj\Debug\DesktopAppWithCrud.pdb

@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75C1E1-62BA-4695-8D4F-63B2D8CC56E2}|..\\CRUDWEB\\CRUDWEB\\CRUDWEB.csproj|c:\\users\\serjo\\source\\repos\\crudweb\\crudweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75C1E1-62BA-4695-8D4F-63B2D8CC56E2}|..\\CRUDWEB\\CRUDWEB\\CRUDWEB.csproj|c:\\users\\serjo\\source\\repos\\crudweb\\crudweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75C1E1-62BA-4695-8D4F-63B2D8CC56E2}|..\\CRUDWEB\\CRUDWEB\\CRUDWEB.csproj|c:\\users\\serjo\\source\\repos\\crudweb\\crudweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75C1E1-62BA-4695-8D4F-63B2D8CC56E2}|..\\CRUDWEB\\CRUDWEB\\CRUDWEB.csproj|c:\\users\\serjo\\source\\repos\\crudweb\\crudweb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75C1E1-62BA-4695-8D4F-63B2D8CC56E2}|..\\CRUDWEB\\CRUDWEB\\CRUDWEB.csproj|c:\\users\\serjo\\source\\repos\\crudweb\\crudweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75C1E1-62BA-4695-8D4F-63B2D8CC56E2}|..\\CRUDWEB\\CRUDWEB\\CRUDWEB.csproj|c:\\users\\serjo\\source\\repos\\crudweb\\crudweb\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75C1E1-62BA-4695-8D4F-63B2D8CC56E2}|..\\CRUDWEB\\CRUDWEB\\CRUDWEB.csproj|c:\\users\\serjo\\source\\repos\\crudweb\\crudweb\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|c:\\users\\serjo\\source\\repos\\bca2081mvcempty\\bca2081mvcempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|solutionrelative:bca2081mvcempty\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|c:\\users\\serjo\\source\\repos\\bca2081mvcempty\\bca2081mvcempty\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|solutionrelative:bca2081mvcempty\\views\\home\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|c:\\users\\serjo\\source\\repos\\bca2081mvcempty\\bca2081mvcempty\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|solutionrelative:bca2081mvcempty\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|c:\\users\\serjo\\source\\repos\\bca2081mvcempty\\bca2081mvcempty\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|solutionrelative:bca2081mvcempty\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|c:\\users\\serjo\\source\\repos\\bca2081mvcempty\\bca2081mvcempty\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|solutionrelative:bca2081mvcempty\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F75C1E1-62BA-4695-8D4F-63B2D8CC56E2}|..\\CRUDWEB\\CRUDWEB\\CRUDWEB.csproj|c:\\users\\serjo\\source\\repos\\crudweb\\crudweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|c:\\users\\serjo\\source\\repos\\bca2081mvcempty\\bca2081mvcempty\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|solutionrelative:bca2081mvcempty\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|c:\\users\\serjo\\source\\repos\\bca2081mvcempty\\bca2081mvcempty\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6879F8D-262B-4C57-B749-BC25D7823104}|Bca2081MVCEmpty\\Bca2081MVCEmpty.csproj|solutionrelative:bca2081mvcempty\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\CRUDWEB\\CRUDWEB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\CRUDWEB\\CRUDWEB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAuwIoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:12:45.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\CRUDWEB\\CRUDWEB\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "..\\CRUDWEB\\CRUDWEB\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-20T09:19:50.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\Home\\Student.cshtml",
+              "RelativeDocumentMoniker": "Bca2081MVCEmpty\\Views\\Home\\Student.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\Home\\Student.cshtml",
+              "RelativeToolTip": "Bca2081MVCEmpty\\Views\\Home\\Student.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T06:44:04.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\CRUDWEB\\CRUDWEB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\CRUDWEB\\CRUDWEB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T06:48:47.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Views\\Home\\Display.cshtml",
+              "RelativeDocumentMoniker": "..\\CRUDWEB\\CRUDWEB\\Views\\Home\\Display.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Views\\Home\\Display.cshtml",
+              "RelativeToolTip": "..\\CRUDWEB\\CRUDWEB\\Views\\Home\\Display.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCEAAACAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T08:53:52.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\CRUDWEB\\CRUDWEB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\CRUDWEB\\CRUDWEB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T06:35:11.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CRUDWEB\\CRUDWEB\\Program.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Program.cs",
+              "RelativeToolTip": "..\\CRUDWEB\\CRUDWEB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:12:12.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bca2081MVCEmpty\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bca2081MVCEmpty\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAAAN8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T01:29:28.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\CRUDWEB\\CRUDWEB\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\Models\\Student.cs",
+              "RelativeToolTip": "..\\CRUDWEB\\CRUDWEB\\Models\\Student.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:21:06.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bca2081MVCEmpty\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Bca2081MVCEmpty\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T06:31:20.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Bca2081MVCEmpty\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Models\\Student.cs",
+              "RelativeToolTip": "Bca2081MVCEmpty\\Models\\Student.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:27:22.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bca2081MVCEmpty\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bca2081MVCEmpty\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T06:31:12.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\CRUDWEB\\CRUDWEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\CRUDWEB\\CRUDWEB\\appsettings.json",
+              "RelativeToolTip": "..\\CRUDWEB\\CRUDWEB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T06:18:19.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bca2081MVCEmpty\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bca2081MVCEmpty\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T06:31:02.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Bca2081MVCEmpty\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\Bca2081MVCEmpty\\Bca2081MVCEmpty\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Bca2081MVCEmpty\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T06:31:05.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

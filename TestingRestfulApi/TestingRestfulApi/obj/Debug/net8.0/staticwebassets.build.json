@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "WyYjyxjIICIerRD59XDS0VdKSXlwTm2WhbVV3JW95cU=",
+  "Source": "TestingRestfulApi",
+  "BasePath": "_content/TestingRestfulApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TestingRestfulApi\\wwwroot",
+      "Source": "TestingRestfulApi",
+      "ContentRoot": "C:\\Users\\serjo\\source\\repos\\TestingRestfulApi\\TestingRestfulApi\\wwwroot\\",
+      "BasePath": "_content/TestingRestfulApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,63 @@
+﻿@model IEnumerable<UserListEdit>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .custom-shadow {
+        box-shadow: 0 4px 6px rgba(0, 0, 255, 0.3);
+    }
+
+    .card-container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+        margin-top: 20px;
+    }
+</style>
+
+<div style="padding-top: 80px;">
+    <hr />
+    <div class="mt-4">
+        <a asp-action="Create" asp-controller="Home" class="p-2 text-white rounded-lg px-4 bg-blue-700 hover:bg-blue-800" style="margin-left: 10px;">Add New User</a>
+    </div>
+    <div class="card-container">
+        @foreach (var u in Model)
+        {
+            <div class="bg-white border border-gray-300 rounded-lg cursor-pointer custom-shadow">
+                <div class="p-4">
+                    <div class="flex justify-end mb-4">
+                        <button id="dropdownButton-@u.EncId" data-dropdown-toggle="dropdown-@u.EncId" class="inline-block text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:ring-4 focus:outline-none focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-1.5" type="button">
+                            <span class="sr-only">Open dropdown</span>
+                            <svg class="w-5 h-5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 3">
+                                <path d="M2 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3Zm6.041 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3ZM14 0a1.5 1.5 0 1 1 0 3 1.5 1.5 0 0 1 0-3Z" />
+                            </svg>
+                        </button>
+                        <!-- Dropdown menu -->
+                        <div id="dropdown-@u.EncId" class="z-10 hidden text-base list-none bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+                            <ul class="py-2" aria-labelledby="dropdownButton-@u.EncId">
+                                <li>
+                                    <a asp-action="Edit" asp-route-id="@u.EncId" class="  lock px-4 py-2 text-sm text-gray-700 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white no-underline">Edit</a>
+                                </li>
+                                <li>
+                                    <a asp-action="Delete" asp-route-id="@u.EncId" class="block px-4 py-2 text-sm text-red-600 hover:bg-gray-100 dark:hover:bg-gray-600 dark:text-gray-200 dark:hover:text-white no-underline">Delete</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="flex flex-col items-center pb-4">
+                        <img class="w-24 h-24 mb-3 rounded-full shadow-lg" src="@Url.Content("~/UserImage/" + u.UserPhoto)" alt="@u.FullName image" />
+                        <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">@u.FullName</h5>
+                        <span class="text-sm text-gray-500 dark:text-gray-400">@u.UserRole</span>
+                        <p class="text-sm text-gray-500 dark:text-gray-400">@u.CurrentAddress</p>
+                        <p class="text-sm text-gray-500 dark:text-gray-400">@u.EmailAddress</p>
+                        <div class="flex mt-4 space-x-2">
+                            <a asp-action="AddFriend" asp-route-id="@u.EncId" class="inline-flex items-center px-4 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 no-underline">Add friend</a>
+                            <a asp-action="Message" asp-route-id="@u.EncId" class="py-2 px-4 text-sm font-medium text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 no-underline">Message</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

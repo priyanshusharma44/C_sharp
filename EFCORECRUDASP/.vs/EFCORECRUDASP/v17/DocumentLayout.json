@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|c:\\users\\serjo\\source\\repos\\efcorecrudasp\\efcorecrudasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|solutionrelative:efcorecrudasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|c:\\users\\serjo\\source\\repos\\efcorecrudasp\\efcorecrudasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|solutionrelative:efcorecrudasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|c:\\users\\serjo\\source\\repos\\efcorecrudasp\\efcorecrudasp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|solutionrelative:efcorecrudasp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|c:\\users\\serjo\\source\\repos\\efcorecrudasp\\efcorecrudasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|solutionrelative:efcorecrudasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|c:\\users\\serjo\\source\\repos\\efcorecrudasp\\efcorecrudasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|solutionrelative:efcorecrudasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|c:\\users\\serjo\\source\\repos\\efcorecrudasp\\efcorecrudasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|solutionrelative:efcorecrudasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|c:\\users\\serjo\\source\\repos\\efcorecrudasp\\efcorecrudasp\\models\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|solutionrelative:efcorecrudasp\\models\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|c:\\users\\serjo\\source\\repos\\efcorecrudasp\\efcorecrudasp\\models\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|solutionrelative:efcorecrudasp\\models\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|c:\\users\\serjo\\source\\repos\\efcorecrudasp\\efcorecrudasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A1FEE28-5CBB-4A85-BBC5-464DD5A407F8}|EFCORECRUDASP\\EFCORECRUDASP.csproj|solutionrelative:efcorecrudasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EFCORECRUDASP\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EFCORECRUDASP\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T02:23:57.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EFCORECRUDASP\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EFCORECRUDASP\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T02:17:38.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCORECRUDASP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EFCORECRUDASP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T02:16:23.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EFCORECRUDASP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EFCORECRUDASP\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T02:08:32.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EFCORECRUDASP\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EFCORECRUDASP\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T02:04:33.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoList.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Models\\TodoList.cs",
+              "RelativeDocumentMoniker": "EFCORECRUDASP\\Models\\TodoList.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Models\\TodoList.cs",
+              "RelativeToolTip": "EFCORECRUDASP\\Models\\TodoList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:44:51.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Models\\ToDoAppDbContext.cs",
+              "RelativeDocumentMoniker": "EFCORECRUDASP\\Models\\ToDoAppDbContext.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Models\\ToDoAppDbContext.cs",
+              "RelativeToolTip": "EFCORECRUDASP\\Models\\ToDoAppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:44:25.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCORECRUDASP\\appsettings.json",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\appsettings.json",
+              "RelativeToolTip": "EFCORECRUDASP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-22T01:02:50.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Program.cs",
+              "RelativeDocumentMoniker": "EFCORECRUDASP\\Program.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\EFCORECRUDASP\\EFCORECRUDASP\\Program.cs",
+              "RelativeToolTip": "EFCORECRUDASP\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T01:02:04.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

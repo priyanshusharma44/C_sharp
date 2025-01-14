@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|c:\\users\\serjo\\source\\repos\\dotnetclass\\dotnetclass\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|solutionrelative:dotnetclass\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|c:\\users\\serjo\\source\\repos\\dotnetclass\\dotnetclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|solutionrelative:dotnetclass\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|c:\\users\\serjo\\source\\repos\\dotnetclass\\dotnetclass\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|solutionrelative:dotnetclass\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|c:\\users\\serjo\\source\\repos\\dotnetclass\\dotnetclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|solutionrelative:dotnetclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|c:\\users\\serjo\\source\\repos\\dotnetclass\\dotnetclass\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|solutionrelative:dotnetclass\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|c:\\users\\serjo\\source\\repos\\dotnetclass\\dotnetclass\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|solutionrelative:dotnetclass\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|c:\\users\\serjo\\source\\repos\\dotnetclass\\dotnetclass\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3BDCFBC-C91A-4D90-84B1-43E5AA5F05A1}|dotNetClass\\dotNetClass.csproj|solutionrelative:dotnetclass\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\appsettings.json",
+              "RelativeDocumentMoniker": "dotNetClass\\appsettings.json",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\appsettings.json",
+              "RelativeToolTip": "dotNetClass\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T09:00:35.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "dotNetClass\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "dotNetClass\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T08:02:58.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "dotNetClass\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "dotNetClass\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T08:02:43.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Program.cs",
+              "RelativeDocumentMoniker": "dotNetClass\\Program.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Program.cs",
+              "RelativeToolTip": "dotNetClass\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:58:51.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "dotNetClass\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "dotNetClass\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T07:57:20.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "dotNetClass\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "dotNetClass\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T07:56:35.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "dotNetClass\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\dotNetClass\\dotNetClass\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "dotNetClass\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T07:56:09.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

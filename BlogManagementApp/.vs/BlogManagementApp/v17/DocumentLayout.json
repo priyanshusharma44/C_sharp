@@ -1,0 +1,570 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\blog\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\blog\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\blog\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\blog\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\blog\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\home\\_profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\home\\_profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\static\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\static\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\models\\blogcontentedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\models\\blogcontentedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\secuirty\\datasecuritykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\secuirty\\datasecuritykey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\models\\blogcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\models\\blogcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\models\\blogmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\models\\blogmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\models\\userlistedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\models\\userlistedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\models\\profileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\shared\\_staticlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\shared\\_staticlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\controllers\\staticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\controllers\\staticcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|c:\\users\\serjo\\source\\repos\\blogmanagementapp\\blogmanagementapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8B0EC03-C979-46FD-B01B-7DACC5EDDE5F}|BlogManagementApp\\BlogManagementApp.csproj|solutionrelative:blogmanagementapp\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\serjo\\source\\repos\\controllerPractice\\controllerPractice\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\Details.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Blog\\Details.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\Details.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Blog\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T10:15:14.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAowGUAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T06:35:50.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T08:35:02.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\AddBlog.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Blog\\AddBlog.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\AddBlog.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Blog\\AddBlog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T07:43:58.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Blog\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\Edit.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Blog\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T02:59:19.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T09:32:39.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Blog\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Blog\\Delete.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Blog\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T02:59:59.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\_Profile.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Home\\_Profile.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\_Profile.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Home\\_Profile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T06:24:28.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAowIsAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T06:33:24.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Static\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Static\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Static\\Index.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Static\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T06:41:06.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogContentEdit.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\BlogContentEdit.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Models\\BlogContentEdit.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\BlogContentEdit.cs",
+              "RelativeToolTip": "BlogManagementApp\\Models\\BlogContentEdit.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T07:07:20.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "BlogManagementApp\\Controllers\\BlogController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAIwHsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:35:36.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Program.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Program.cs",
+              "RelativeToolTip": "BlogManagementApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:28:40.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogManagementApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\appsettings.json",
+              "RelativeToolTip": "BlogManagementApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-19T07:36:16.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T07:04:50.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataSecurityKey.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Secuirty\\DataSecurityKey.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Secuirty\\DataSecurityKey.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Secuirty\\DataSecurityKey.cs",
+              "RelativeToolTip": "BlogManagementApp\\Secuirty\\DataSecurityKey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:52:08.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogContent.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\BlogContent.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Models\\BlogContent.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\BlogContent.cs",
+              "RelativeToolTip": "BlogManagementApp\\Models\\BlogContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:16:25.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T06:34:52.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlogManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\BlogManagementContext.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Models\\BlogManagementContext.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\BlogManagementContext.cs",
+              "RelativeToolTip": "BlogManagementApp\\Models\\BlogManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:58:47.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\UserList.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Models\\UserList.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\UserList.cs",
+              "RelativeToolTip": "BlogManagementApp\\Models\\UserList.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA5wBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T07:38:02.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T03:51:20.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserListEdit.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\UserListEdit.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Models\\UserListEdit.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\UserListEdit.cs",
+              "RelativeToolTip": "BlogManagementApp\\Models\\UserListEdit.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA3wA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:28:14.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogManagementApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAUwEoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:31:34.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BlogManagementApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:26:13.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AddBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\AddBlog.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\AddBlog.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\AddBlog.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\AddBlog.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T06:40:58.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\ProfileViewModel.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Models\\ProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Models\\ProfileViewModel.cs",
+              "RelativeToolTip": "BlogManagementApp\\Models\\ProfileViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T02:44:45.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T02:31:52.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T02:31:44.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-17T02:31:40.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_StaticLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\_StaticLayout.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Shared\\_StaticLayout.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Shared\\_StaticLayout.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Shared\\_StaticLayout.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAUwDoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T06:31:45.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BlogManagementApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-05T09:54:07.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StaticController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Controllers\\StaticController.cs",
+              "RelativeDocumentMoniker": "BlogManagementApp\\Controllers\\StaticController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\Controllers\\StaticController.cs",
+              "RelativeToolTip": "BlogManagementApp\\Controllers\\StaticController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:38:25.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\libman.json",
+              "RelativeDocumentMoniker": "BlogManagementApp\\libman.json",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\libman.json",
+              "RelativeToolTip": "BlogManagementApp\\libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T08:16:48.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\controllerPractice\\controllerPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\controllerPractice\\controllerPractice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\controllerPractice\\controllerPractice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\controllerPractice\\controllerPractice\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:42:55.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

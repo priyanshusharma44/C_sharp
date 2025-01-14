@@ -1,0 +1,15 @@
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\bin\Debug\net6.0\DelegateEventSubscriberPublisher.exe
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\bin\Debug\net6.0\DelegateEventSubscriberPublisher.deps.json
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\bin\Debug\net6.0\DelegateEventSubscriberPublisher.runtimeconfig.json
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\bin\Debug\net6.0\DelegateEventSubscriberPublisher.dll
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\bin\Debug\net6.0\DelegateEventSubscriberPublisher.pdb
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\DelegateEventSubscriberPublisher.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\DelegateEventSubscriberPublisher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\DelegateEventSubscriberPublisher.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\DelegateEventSubscriberPublisher.AssemblyInfo.cs
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\DelegateEventSubscriberPublisher.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\DelegateEventSubscriberPublisher.dll
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\refint\DelegateEventSubscriberPublisher.dll
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\DelegateEventSubscriberPublisher.pdb
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\DelegateEventSubscriberPublisher.genruntimeconfig.cache
+C:\Users\Victus\source\repos\DelegateEventSubscriberPublisher\obj\Debug\net6.0\ref\DelegateEventSubscriberPublisher.dll

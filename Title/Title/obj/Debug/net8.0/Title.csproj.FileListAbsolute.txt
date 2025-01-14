@@ -1,0 +1,14 @@
+C:\Users\serjo\source\repos\Title\Title\bin\Debug\net8.0\Title.exe
+C:\Users\serjo\source\repos\Title\Title\bin\Debug\net8.0\Title.deps.json
+C:\Users\serjo\source\repos\Title\Title\bin\Debug\net8.0\Title.runtimeconfig.json
+C:\Users\serjo\source\repos\Title\Title\bin\Debug\net8.0\Title.dll
+C:\Users\serjo\source\repos\Title\Title\bin\Debug\net8.0\Title.pdb
+C:\Users\serjo\source\repos\Title\Title\obj\Debug\net8.0\Title.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serjo\source\repos\Title\Title\obj\Debug\net8.0\Title.AssemblyInfoInputs.cache
+C:\Users\serjo\source\repos\Title\Title\obj\Debug\net8.0\Title.AssemblyInfo.cs
+C:\Users\serjo\source\repos\Title\Title\obj\Debug\net8.0\Title.csproj.CoreCompileInputs.cache
+C:\Users\serjo\source\repos\Title\Title\obj\Debug\net8.0\Title.dll
+C:\Users\serjo\source\repos\Title\Title\obj\Debug\net8.0\refint\Title.dll
+C:\Users\serjo\source\repos\Title\Title\obj\Debug\net8.0\Title.pdb
+C:\Users\serjo\source\repos\Title\Title\obj\Debug\net8.0\Title.genruntimeconfig.cache
+C:\Users\serjo\source\repos\Title\Title\obj\Debug\net8.0\ref\Title.dll

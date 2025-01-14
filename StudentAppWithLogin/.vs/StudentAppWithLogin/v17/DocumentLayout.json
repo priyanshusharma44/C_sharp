@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\controllers\\userlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\controllers\\userlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\userlist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\userlist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\userlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\userlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\userlist\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\userlist\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\userlist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\userlist\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\userlist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\userlist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|c:\\users\\serjo\\source\\repos\\studentappwithlogin\\studentappwithlogin\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{958CA233-822C-4ABC-A089-03EF23BF94AC}|StudentAppWithLogin\\StudentAppWithLogin.csproj|solutionrelative:studentappwithlogin\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserListController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Controllers\\UserListController.cs",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Controllers\\UserListController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Controllers\\UserListController.cs",
+              "RelativeToolTip": "StudentAppWithLogin\\Controllers\\UserListController.cs",
+              "ViewState": "AQIAAM0AAAAAAAAAAAAIwN4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:56:16.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:29:29.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\UserList\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Index.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\UserList\\Index.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:12:14.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T01:09:06.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Login.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\UserList\\Login.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Login.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\UserList\\Login.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:12:37.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T01:36:51.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\UserList\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Edit.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\UserList\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T07:20:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentAppWithLogin\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAmwDMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:31:11.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T02:29:31.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\UserList\\Details.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Details.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\UserList\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T07:03:08.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\UserList\\Create.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\UserList\\Create.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\UserList\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwCYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T10:41:40.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Models\\UserList.cs",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Models\\UserList.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Models\\UserList.cs",
+              "RelativeToolTip": "StudentAppWithLogin\\Models\\UserList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:18:06.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-17T08:22:08.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Models\\LoginModel.cs",
+              "RelativeToolTip": "StudentAppWithLogin\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:59:43.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Program.cs",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Program.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Program.cs",
+              "RelativeToolTip": "StudentAppWithLogin\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:02:12.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Models\\Student.cs",
+              "RelativeToolTip": "StudentAppWithLogin\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:17:50.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Models\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "StudentAppWithLogin\\Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T01:17:42.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\appsettings.json",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\appsettings.json",
+              "RelativeToolTip": "StudentAppWithLogin\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T01:02:09.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentAppWithLogin\\Views\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "StudentAppWithLogin\\Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T01:36:56.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\bin\Debug\net8.0\EventDelegate2Example.exe
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\bin\Debug\net8.0\EventDelegate2Example.deps.json
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\bin\Debug\net8.0\EventDelegate2Example.runtimeconfig.json
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\bin\Debug\net8.0\EventDelegate2Example.dll
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\bin\Debug\net8.0\EventDelegate2Example.pdb
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\obj\Debug\net8.0\EventDelegate2Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\obj\Debug\net8.0\EventDelegate2Example.AssemblyInfoInputs.cache
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\obj\Debug\net8.0\EventDelegate2Example.AssemblyInfo.cs
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\obj\Debug\net8.0\EventDelegate2Example.csproj.CoreCompileInputs.cache
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\obj\Debug\net8.0\EventDelegate2Example.dll
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\obj\Debug\net8.0\refint\EventDelegate2Example.dll
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\obj\Debug\net8.0\EventDelegate2Example.pdb
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\obj\Debug\net8.0\EventDelegate2Example.genruntimeconfig.cache
+C:\Users\serjo\source\repos\EventDelegate2Example\EventDelegate2Example\obj\Debug\net8.0\ref\EventDelegate2Example.dll

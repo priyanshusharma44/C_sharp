@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\ConsoleCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C757747F-2BD4-41DB-A33F-A206A4DA3CD5}|ConsoleCRUD\\ConsoleCRUD.csproj|c:\\users\\serjo\\source\\repos\\consolecrud\\consolecrud\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C757747F-2BD4-41DB-A33F-A206A4DA3CD5}|ConsoleCRUD\\ConsoleCRUD.csproj|solutionrelative:consolecrud\\repository\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C757747F-2BD4-41DB-A33F-A206A4DA3CD5}|ConsoleCRUD\\ConsoleCRUD.csproj|c:\\users\\serjo\\source\\repos\\consolecrud\\consolecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C757747F-2BD4-41DB-A33F-A206A4DA3CD5}|ConsoleCRUD\\ConsoleCRUD.csproj|solutionrelative:consolecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C757747F-2BD4-41DB-A33F-A206A4DA3CD5}|ConsoleCRUD\\ConsoleCRUD.csproj|c:\\users\\serjo\\source\\repos\\consolecrud\\consolecrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C757747F-2BD4-41DB-A33F-A206A4DA3CD5}|ConsoleCRUD\\ConsoleCRUD.csproj|solutionrelative:consolecrud\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\Repository\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "ConsoleCRUD\\Repository\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\Repository\\StudentRepo.cs",
+              "RelativeToolTip": "ConsoleCRUD\\Repository\\StudentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:10:53.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ConsoleCRUD\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\Models\\Student.cs",
+              "RelativeToolTip": "ConsoleCRUD\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:04:22.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\ConsoleCRUD\\ConsoleCRUD\\Program.cs",
+              "RelativeToolTip": "ConsoleCRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T00:57:51.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

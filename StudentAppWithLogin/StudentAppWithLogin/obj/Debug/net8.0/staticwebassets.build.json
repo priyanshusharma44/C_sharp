@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "BXbGBYP2hVlXgobfC/v/fyFkD1KgJu/OkHQpc/E3P6E=",
+  "Source": "StudentAppWithLogin",
+  "BasePath": "_content/StudentAppWithLogin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StudentAppWithLogin\\wwwroot",
+      "Source": "StudentAppWithLogin",
+      "ContentRoot": "C:\\Users\\serjo\\source\\repos\\StudentAppWithLogin\\StudentAppWithLogin\\wwwroot\\",
+      "BasePath": "_content/StudentAppWithLogin",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe.config
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\bin\Debug\SimpleApp.exe
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\bin\Debug\SimpleApp.pdb
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.Properties.Resources.resources
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.GenerateResource.cache
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.exe
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.pdb
+C:\Users\serjo\source\repos\SimpleApp\SimpleApp\obj\Debug\SimpleApp.Form1.resources

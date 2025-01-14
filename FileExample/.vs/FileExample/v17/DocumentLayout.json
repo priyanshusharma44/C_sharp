@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\FileExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD2CE48-7B29-4BDD-97E2-E81B3482ADF8}|FileExample\\FileExample.csproj|c:\\users\\serjo\\source\\repos\\fileexample\\fileexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD2CE48-7B29-4BDD-97E2-E81B3482ADF8}|FileExample\\FileExample.csproj|solutionrelative:fileexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD2CE48-7B29-4BDD-97E2-E81B3482ADF8}|FileExample\\FileExample.csproj|c:\\users\\serjo\\source\\repos\\fileexample\\fileexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BD2CE48-7B29-4BDD-97E2-E81B3482ADF8}|FileExample\\FileExample.csproj|solutionrelative:fileexample\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\FileExample\\FileExample\\Employee.cs",
+              "RelativeDocumentMoniker": "FileExample\\Employee.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\FileExample\\FileExample\\Employee.cs",
+              "RelativeToolTip": "FileExample\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:35:42.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\FileExample\\FileExample\\Program.cs",
+              "RelativeDocumentMoniker": "FileExample\\Program.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\FileExample\\FileExample\\Program.cs",
+              "RelativeToolTip": "FileExample\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T01:08:50.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿@model List<Student>
+<section class="intro">
+   
+        <div class="mask d-flex align-items-center h-100 shadow-sm" >
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-12">
+                        <div class="card bg-dark shadow-2-strong">
+                            <div class="card-body">
+                                <div class="table-responsive">
+                                <div class="d-flex justify-content-center mb-4">
+                                    <a asp-action="Index" asp-controller="Home" class="btn btn-primary w-50 shadow">Add User</a>
+                                </div>
+                                    <table class="table table-dark table-borderless mb-0">
+                                        <thead>
+                                        <tr>
+                                            <th scope="col">Id</th>
+                                            <th scope="col">Name</th>
+                                            <th scope="col">Age</th>
+                                            <th scope="col">Address</th>
+                                            <th scope="col">Action</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        @foreach (var student in Model)
+                                        {
+                                            <tr>
+                                                <td>@student.Student_Id</td>
+                                                <td>@student.Name</td>
+                                                <td>@student.Age</td>
+                                                <td>@student.Address</td>
+                                                <td>
+                                                    <a asp-action="Edit" asp-controller="Home" asp-route-id="@student.Student_Id" class="btn btn-primary">Edit</a>
+                                                    <a asp-action="Delete" asp-controller="Home" asp-route-id="@student.Student_Id" onclick="return confirm('Are you sure you want to delete @student.Name?')" class="btn btn-danger">Delete</a>
+                                                </td>
+                                            </tr>
+                                        }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

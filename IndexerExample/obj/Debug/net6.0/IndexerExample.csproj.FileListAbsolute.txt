@@ -1,0 +1,15 @@
+C:\Users\Victus\source\repos\IndexerExample\bin\Debug\net6.0\IndexerExample.exe
+C:\Users\Victus\source\repos\IndexerExample\bin\Debug\net6.0\IndexerExample.deps.json
+C:\Users\Victus\source\repos\IndexerExample\bin\Debug\net6.0\IndexerExample.runtimeconfig.json
+C:\Users\Victus\source\repos\IndexerExample\bin\Debug\net6.0\IndexerExample.dll
+C:\Users\Victus\source\repos\IndexerExample\bin\Debug\net6.0\IndexerExample.pdb
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\IndexerExample.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\IndexerExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\IndexerExample.AssemblyInfoInputs.cache
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\IndexerExample.AssemblyInfo.cs
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\IndexerExample.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\IndexerExample.dll
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\refint\IndexerExample.dll
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\IndexerExample.pdb
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\IndexerExample.genruntimeconfig.cache
+C:\Users\Victus\source\repos\IndexerExample\obj\Debug\net6.0\ref\IndexerExample.dll

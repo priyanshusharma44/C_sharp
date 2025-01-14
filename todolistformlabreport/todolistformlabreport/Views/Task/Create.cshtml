@@ -1,0 +1,17 @@
+﻿@model todolistformlabreport.Models.ToDoTask
+
+@{
+    ViewData["Title"] = "Create New Task";
+}
+
+<h1>Create New Task</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="TaskName" class="control-label"></label>
+        <input asp-for="TaskName" class="form-control" />
+        <span asp-validation-for="TaskName" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

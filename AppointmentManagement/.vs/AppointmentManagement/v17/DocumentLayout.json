@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|c:\\users\\serjo\\source\\repos\\appointmentmanagement\\appointmentmanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78B2A33F-4172-4D0F-9563-D4578D6F279E}|AppointmentManagement\\AppointmentManagement.csproj|solutionrelative:appointmentmanagement\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AppointmentManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AppointmentManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:27:51.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "AppointmentManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Program.cs",
+              "RelativeToolTip": "AppointmentManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:24:24.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppointmentManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppointmentManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAQwEgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:38:00.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "AppointmentManagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\appsettings.json",
+              "RelativeToolTip": "AppointmentManagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T15:54:33.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AppointmentManagement\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "AppointmentManagement\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T11:51:24.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AppointmentManagement\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AppointmentManagement\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:27:48.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppointmentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppointmentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAowKAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:28:51.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppointmentManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AppointmentManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:51:21.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "AppointmentManagement\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Models\\UserLogin.cs",
+              "RelativeToolTip": "AppointmentManagement\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:48:43.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AppointmentManagement\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\serjo\\source\\repos\\AppointmentManagement\\AppointmentManagement\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AppointmentManagement\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T06:27:54.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

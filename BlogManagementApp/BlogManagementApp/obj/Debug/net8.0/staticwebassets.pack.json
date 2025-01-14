@@ -1,0 +1,525 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlogManagementApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlogManagementApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage04448039-3bac-414d-9212-3558e6a40153.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage04448039-3bac-414d-9212-3558e6a40153.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage10bff396-781c-453c-98eb-277136db8fea.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage10bff396-781c-453c-98eb-277136db8fea.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage185641a1-eb4f-4b53-89ad-f4d1264d5f60.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage185641a1-eb4f-4b53-89ad-f4d1264d5f60.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage42bbf80c-9210-408a-921e-2391a5cd68bb.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage42bbf80c-9210-408a-921e-2391a5cd68bb.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage530d0956-e4ae-4005-957b-efdaff535474.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage530d0956-e4ae-4005-957b-efdaff535474.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage6077217c-2561-426c-81b6-4ae3600fa258.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage6077217c-2561-426c-81b6-4ae3600fa258.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage67ba50b8-1e6f-4a46-a3a8-8a6d35730d9f.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage67ba50b8-1e6f-4a46-a3a8-8a6d35730d9f.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage685808c8-5638-4110-ab37-c5265fccc7c3.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage685808c8-5638-4110-ab37-c5265fccc7c3.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage7a903721-1647-422b-a872-a46676090e73.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage7a903721-1647-422b-a872-a46676090e73.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage81c6e1c2-3326-4bcc-ac13-2324eafe6df0.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage81c6e1c2-3326-4bcc-ac13-2324eafe6df0.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage8e69ab61-2168-4b27-8a1b-cb9376d9af86.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage8e69ab61-2168-4b27-8a1b-cb9376d9af86.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImage937b8874-53ed-44b3-bee9-4ca8cdc4c634.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImage937b8874-53ed-44b3-bee9-4ca8cdc4c634.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImagea0b8de26-26a6-4ee9-b08b-0b736c356462.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImagea0b8de26-26a6-4ee9-b08b-0b736c356462.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImageb3b51b8e-3154-40a0-b7e0-4c2c4cd3f823.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImageb3b51b8e-3154-40a0-b7e0-4c2c4cd3f823.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImagebf9bd97f-e653-4097-aa08-e1097ca53f27.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImagebf9bd97f-e653-4097-aa08-e1097ca53f27.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImaged41ad309-4536-42dc-ba03-ab5ce4b7a12e.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImaged41ad309-4536-42dc-ba03-ab5ce4b7a12e.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\BlogImage\\BLogImagee340231d-5b6e-4c5e-ae01-529e249d6eaa.png",
+      "PackagePath": "staticwebassets\\BlogImage\\BLogImagee340231d-5b6e-4c5e-ae01-529e249d6eaa.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\0eeb915e-69bb-4187-b68d-5ac98522f73b.png",
+      "PackagePath": "staticwebassets\\UserImage\\0eeb915e-69bb-4187-b68d-5ac98522f73b.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\364909d1-55a5-447b-a8ac-acc842616d96.png",
+      "PackagePath": "staticwebassets\\UserImage\\364909d1-55a5-447b-a8ac-acc842616d96.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\43ec4c78-dd79-475f-a527-eb4fba6fd260.png",
+      "PackagePath": "staticwebassets\\UserImage\\43ec4c78-dd79-475f-a527-eb4fba6fd260.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\4d350e0f-54d9-4dc5-a8fc-7c3b15994af2.png",
+      "PackagePath": "staticwebassets\\UserImage\\4d350e0f-54d9-4dc5-a8fc-7c3b15994af2.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage1157e2df-145f-4b41-bead-73bca85451fd.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage1157e2df-145f-4b41-bead-73bca85451fd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage124f0d24-4e59-4009-a93d-acb4449aab36.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage124f0d24-4e59-4009-a93d-acb4449aab36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage1b12c51b-84db-46d1-841d-c9311057fdae.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage1b12c51b-84db-46d1-841d-c9311057fdae.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage2727b53b-3a49-4121-937f-aa3818001452.jpeg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage2727b53b-3a49-4121-937f-aa3818001452.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage299be239-abd6-472e-9a58-c256f5e5b696.png",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage299be239-abd6-472e-9a58-c256f5e5b696.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage3bcf1ff1-d322-4bc9-b883-0984943902f9.jpeg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage3bcf1ff1-d322-4bc9-b883-0984943902f9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage4279f7d7-ee12-4d5d-aa2f-441c4de65652.jpeg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage4279f7d7-ee12-4d5d-aa2f-441c4de65652.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage4c3fb18b-db8e-45ca-9143-253c34dc7f05.jpeg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage4c3fb18b-db8e-45ca-9143-253c34dc7f05.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage4d153a98-7a31-42f9-93da-5982c12537b3.jpeg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage4d153a98-7a31-42f9-93da-5982c12537b3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage5c172917-9e73-4096-ab5c-abb228386566.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage5c172917-9e73-4096-ab5c-abb228386566.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage6dde167c-54d6-4cfa-b0a0-9a981214c621.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage6dde167c-54d6-4cfa-b0a0-9a981214c621.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage791db163-3ce0-4865-8f45-079531703891.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage791db163-3ce0-4865-8f45-079531703891.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage7e659989-af43-44cd-9434-eacd8e2227b3.png",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage7e659989-af43-44cd-9434-eacd8e2227b3.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage7e819b72-222e-4bcc-9a5e-1d9871de44af.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage7e819b72-222e-4bcc-9a5e-1d9871de44af.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage7f6748b7-fccb-4543-a44c-1586ef25b874.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage7f6748b7-fccb-4543-a44c-1586ef25b874.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage866d4918-d4a7-4e9a-88ed-752cdc54254e.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage866d4918-d4a7-4e9a-88ed-752cdc54254e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage8831fca1-75bd-43cf-80c6-3f20d0f3be75.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage8831fca1-75bd-43cf-80c6-3f20d0f3be75.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage9377ebac-7e0b-4156-9cd3-3598a63c68a3.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage9377ebac-7e0b-4156-9cd3-3598a63c68a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImage93b57807-435b-4744-94fc-d3ff2e32819d.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImage93b57807-435b-4744-94fc-d3ff2e32819d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImageb35970fd-a383-4bfe-ae61-1d14575058eb.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImageb35970fd-a383-4bfe-ae61-1d14575058eb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImagebc7956d3-16dd-4755-83dc-a3e24eaf623a.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImagebc7956d3-16dd-4755-83dc-a3e24eaf623a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImagec4d3e535-d43f-4819-86fd-52d9cf72519c.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImagec4d3e535-d43f-4819-86fd-52d9cf72519c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImaged0be7f14-9416-4635-9f60-d33d7fb1b54f.jpeg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImaged0be7f14-9416-4635-9f60-d33d7fb1b54f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImaged6fd264e-d871-436a-89a2-07c56591ae5a.png",
+      "PackagePath": "staticwebassets\\UserImage\\UserImaged6fd264e-d871-436a-89a2-07c56591ae5a.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImagee08f1135-d662-40aa-b868-66b417641503.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImagee08f1135-d662-40aa-b868-66b417641503.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImagef3856632-5ec5-42f6-b5f8-e10a29fde5b9.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImagef3856632-5ec5-42f6-b5f8-e10a29fde5b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImagef837014c-119a-4439-9250-fd6c6029d5bd.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImagef837014c-119a-4439-9250-fd6c6029d5bd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\UserImage\\UserImagefcfe2022-c59b-4336-b0d6-2dadb1c5e38c.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\UserImagefcfe2022-c59b-4336-b0d6-2dadb1c5e38c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\image\\admin.png",
+      "PackagePath": "staticwebassets\\image\\admin.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\image\\logo.png",
+      "PackagePath": "staticwebassets\\image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.css",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.js",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.js.map",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.min.css",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.min.css"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.min.js",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.phoenix.js",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.phoenix.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.phoenix.js.map",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.phoenix.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.phoenix.min.js",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.phoenix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.phoenix.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.phoenix.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.turbo.js",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.turbo.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.turbo.js.map",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.turbo.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.turbo.min.js",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.turbo.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\flowbite\\flowbite.turbo.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\flowbite\\flowbite.turbo.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\serjo\\source\\repos\\BlogManagementApp\\BlogManagementApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlogManagementApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlogManagementApp.props",
+      "PackagePath": "build\\BlogManagementApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogManagementApp.props",
+      "PackagePath": "buildMultiTargeting\\BlogManagementApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlogManagementApp.props",
+      "PackagePath": "buildTransitive\\BlogManagementApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

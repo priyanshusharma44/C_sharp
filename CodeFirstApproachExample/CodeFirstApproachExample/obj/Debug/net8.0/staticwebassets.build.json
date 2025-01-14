@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "SZTHOIYp5KxNRu72f9Xl+wPMvoyo8PjU1gm5BM7ar/U=",
+  "Source": "CodeFirstApproachExample",
+  "BasePath": "_content/CodeFirstApproachExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CodeFirstApproachExample\\wwwroot",
+      "Source": "CodeFirstApproachExample",
+      "ContentRoot": "C:\\Users\\serjo\\source\\repos\\CodeFirstApproachExample\\CodeFirstApproachExample\\wwwroot\\",
+      "BasePath": "_content/CodeFirstApproachExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
